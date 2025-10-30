@@ -1,0 +1,6 @@
+# Ignore large dataset files
+data/survey_results_public.csv
+data/survey_results_schema.csv
+
+# Ignore Jupyter Notebook checkpoints folder
+.ipynb_checkpoints/
